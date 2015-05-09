@@ -3,17 +3,17 @@
   "version": "0.0.1",
   "description": "Sample plugin for the electron updater",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "Evolve LLC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/evolvelabs/electron-updater-sample-plugin.git"
   },
-  "author": "Evolve LLC",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/evolvelabs/electron-updater-sample-plugin/issues"
   },
-  "homepage": "https://github.com/evolvelabs/electron-updater-sample-plugin"
+  "homepage": "https://github.com/evolvelabs/electron-updater-sample-plugin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
 }
