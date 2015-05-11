@@ -15,5 +15,5 @@
   "homepage": "https://github.com/evolvelabs/electron-updater-sample-plugin",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  }
 }
