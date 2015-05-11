@@ -1,6 +1,6 @@
 {
   "name": "electron-updater-sample-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sample plugin for the electron updater",
   "main": "index.js",
   "author": "Evolve LLC",
